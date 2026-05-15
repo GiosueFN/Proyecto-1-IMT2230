@@ -11,7 +11,7 @@ El objetivo del proyecto es aplicar LSA mediante la SVD sobre un corpus de rese�
 * `counterstrike_reviews.csv`: Dataset con todas las reviews de los juegos que contengan el nombre "counter-strike".
 * `counter_strike_solo.csv`: Dataset de solo las reviews de el juego "Counter-strike".
 
-## 🛠️ Requisitos e Instalación
+## Requisitos e Instalación
 
 Para ejecutar el código de este proyecto localmente, se necesita Python 3 y las librerias: numpy, pandas, matplotlib y scikit-learn.
 
